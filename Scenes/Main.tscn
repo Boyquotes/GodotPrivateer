@@ -1,0 +1,70 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Main.gd" type="Script" id=1]
+
+[node name="main" type="Panel"]
+margin_right = 1022.0
+margin_bottom = 599.0
+script = ExtResource( 1 )
+
+[node name="CashLabel" type="Label" parent="."]
+margin_left = 87.2262
+margin_top = 60.0
+margin_right = 327.226
+margin_bottom = 82.0
+text = "Cash: $[250]"
+
+[node name="CityLabel" type="Label" parent="."]
+margin_left = 87.2262
+margin_top = 95.8561
+margin_right = 327.226
+margin_bottom = 117.856
+text = "City: [Name]"
+
+[node name="FirmLabel" type="Label" parent="."]
+margin_left = 384.0
+margin_top = 20.0
+margin_right = 622.0
+margin_bottom = 51.0
+text = "[FIRM NAME]"
+align = 1
+valign = 1
+
+[node name="HongKongButton" type="Button" parent="."]
+margin_left = 90.0
+margin_top = 380.0
+margin_right = 200.0
+margin_bottom = 420.0
+text = "Hong Kong"
+
+[node name="ShanghaiButton" type="Button" parent="."]
+margin_left = 220.0
+margin_top = 380.0
+margin_right = 330.0
+margin_bottom = 420.0
+text = "Shanghai"
+
+[node name="NagasakiButton" type="Button" parent="."]
+margin_left = 350.0
+margin_top = 380.0
+margin_right = 460.0
+margin_bottom = 420.0
+text = "Nagasaki"
+
+[node name="ManilaButton" type="Button" parent="."]
+margin_left = 480.0
+margin_top = 380.0
+margin_right = 590.0
+margin_bottom = 420.0
+text = "Manila"
+
+[node name="ProductListContainer" type="VBoxContainer" parent="."]
+margin_left = 87.2262
+margin_top = 140.0
+margin_right = 477.226
+margin_bottom = 350.0
+custom_constants/separation = 20
+[connection signal="pressed" from="HongKongButton" to="." method="DepartFromCity" binds= [ 0 ]]
+[connection signal="pressed" from="ShanghaiButton" to="." method="DepartFromCity" binds= [ 1 ]]
+[connection signal="pressed" from="NagasakiButton" to="." method="DepartFromCity" binds= [ 2 ]]
+[connection signal="pressed" from="ManilaButton" to="." method="DepartFromCity" binds= [ 3 ]]

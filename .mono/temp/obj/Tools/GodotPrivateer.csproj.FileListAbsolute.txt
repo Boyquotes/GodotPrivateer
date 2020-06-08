@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\Godot\GodotPrivateer\.mono\temp\bin\Tools\GodotPrivateer.dll
+D:\OneDrive\Projects\Godot\GodotPrivateer\.mono\temp\bin\Tools\GodotPrivateer.pdb
+D:\OneDrive\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.csprojAssemblyReference.cache
+D:\OneDrive\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.dll
+D:\OneDrive\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.pdb
+D:\Tyler.Dean.Osborne\Projects\Godot\GodotPrivateer\.mono\temp\bin\Tools\GodotPrivateer.dll
+D:\Tyler.Dean.Osborne\Projects\Godot\GodotPrivateer\.mono\temp\bin\Tools\GodotPrivateer.pdb
+D:\Tyler.Dean.Osborne\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.csprojAssemblyReference.cache
+D:\Tyler.Dean.Osborne\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.csproj.CoreCompileInputs.cache
+D:\Tyler.Dean.Osborne\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.dll
+D:\Tyler.Dean.Osborne\Projects\Godot\GodotPrivateer\.mono\temp\obj\Tools\GodotPrivateer.pdb
